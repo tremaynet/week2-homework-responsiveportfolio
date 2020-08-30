@@ -1,7 +1,17 @@
 .body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url('/images/images.png');
+  background-image: url('../images/images.png');
   background-repeat: repeat;
 }
 
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF;
+}
